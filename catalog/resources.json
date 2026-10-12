@@ -4486,5 +4486,13 @@
     "twitter": "https://x.com/BlockRazor_Inc",
     "thumbnail_url": "https://blockrazor.io/tool_provider_images/blockrazor.jpg",
     "llmstext": "https://blockrazor.io/llms.txt"
+  },
+  {
+    "name": "wikipethia",
+    "description": "wikipethia is an MCP server that lets AI agents search Ethereum's specs and research, covering EIPs, ERCs, the consensus and execution specs, the Engine API, AllCoreDevs notes, ethresear.ch, Ethereum Magicians, vitalik.eth.limo and the Ethereum Foundation blog, with every result citing its source URL and date. Its lookup_spec tool returns the exact definition of a spec constant or function for each fork, or an ERC's Solidity declaration with its magic values, such as the value isValidSignature must return. Connect the hosted read-only endpoint at https://mcp.wikipethia.org/mcp without an account, or run it locally on a downloaded corpus, and note that the forum content is licensed for non-commercial use only.",
+    "tags": ["mcp-server", "standards-and-specifications"],
+    "subcategory_id": "mcp-servers",
+    "repos": ["https://github.com/JossDuff/wikipethia"],
+    "twitter": "https://x.com/joddoss"
   }
 ]
