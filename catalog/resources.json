@@ -4505,5 +4505,12 @@
     "packages": ["https://www.npmjs.com/package/@devlab.group/agent-commerce"],
     "thumbnail_url": "https://acg.devlab.group/favicon.svg",
     "llmstext": "https://acg.devlab.group/llms.txt"
+  },
+  {
+    "name": "Coddy Solidity Course",
+    "description": "A free Solidity course of short lessons on contracts, state, mappings, structs, events and require, each with a contract you write and run from the browser. Beginners work through it to learn the language without installing a toolchain or a wallet.",
+    "tags": ["education", "solidity"],
+    "subcategory_id": "courses-tutorials",
+    "website": "https://coddy.tech/landing/solidity"
   }
 ]
