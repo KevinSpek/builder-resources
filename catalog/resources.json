@@ -4538,9 +4538,10 @@
   },
   {
     "name": "Coddy Solidity Course",
-    "description": "A free Solidity course of short lessons on contracts, state, mappings, structs, events and require, each with a contract you write and run from the browser. Beginners work through it to learn the language without installing a toolchain or a wallet.",
+    "description": "A Solidity course of short lessons on contracts, state, mappings, structs, events and require, most with a contract you write and run from the browser. It needs a free account and the free plan has a daily limit. Beginners work through it to learn the language without installing a toolchain or a wallet.",
     "tags": ["education", "solidity"],
     "subcategory_id": "courses-tutorials",
-    "website": "https://coddy.tech/landing/solidity"
+    "website": "https://coddy.tech/landing/solidity",
+    "thumbnail_url": "https://github.com/coddytech.png"
   }
 ]
